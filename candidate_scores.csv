@@ -1,11 +1,11 @@
 Sponsor Name,Sponsored Count,Cosponsored Count,Weighted Score,Score Relative to Expectation,Rank
-"Sen. Klobuchar, Amy",12.0,119.0,10.025687901733997,1.4283726277502673,60
-"Sen. Gravel, Mike",10.0,58.0,12.295536905813721,1.0010529113879674,128
-"Sen. Clinton, Hillary Rodham",1.0,70.0,3.980089890706929,0.9666985077373024,135
-"Sen. Booker, Cory A.",2.0,39.0,2.3556902290738613,0.744203530017009,213
-"Sen. Warren, Elizabeth",1.0,50.0,2.3179829810626194,0.7322911543018771,216
-"Sen. Biden, Joseph R., Jr.",23.0,223.0,21.891315668412545,0.7005852077146002,222
-"Sen. Bennet, Michael F.",1.0,51.0,2.3767409668091983,0.43793051576927594,307
-"Sen. Gillibrand, Kirsten E.",0.0,67.0,1.6271254062542702,0.29980880471751853,346
-"Sen. Sanders, Bernard",1.0,48.0,2.031032141840603,0.28936375697316086,351
-"Sen. Harris, Kamala D.",0.0,16.0,0.3879562286993335,0.2872013071060095,352
+"Sen. Klobuchar, Amy",12,119,10.026,1.428,60
+"Sen. Gravel, Mike",10,58,12.296,1.001,128
+"Sen. Clinton, Hillary Rodham",1,70,3.980,0.967,135
+"Sen. Booker, Cory A.",2,39,2.356,0.744,213
+"Sen. Warren, Elizabeth",1,50,2.318,0.732,216
+"Sen. Biden, Joseph R., Jr.",23,223,21.891,0.701,222
+"Sen. Bennet, Michael F.",1,51,2.377,0.438,307
+"Sen. Gillibrand, Kirsten E.",0,67,1.627,0.300,346
+"Sen. Sanders, Bernard",1,48,2.031,0.289,351
+"Sen. Harris, Kamala D.",0,16,0.388,0.287,352
